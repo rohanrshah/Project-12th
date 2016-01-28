@@ -1,0 +1,14 @@
+.head{
+  font-family: monospace;
+  color: #666666;
+  font-size: 34px;
+}
+
+.body{
+  text-decoration: none;
+  color: blue;
+  font-size: 20px;
+}
+
+.foot{
+}
